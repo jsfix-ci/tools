@@ -21,7 +21,7 @@
   "dependencies": {
     "fs-extra": "^10.1.0",
     "js-yaml": "^4.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^3.2.9"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.1",
